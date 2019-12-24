@@ -8,6 +8,8 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.ResponseBody;
 
 import javax.servlet.http.HttpServletResponse;
+import java.util.HashMap;
+import java.util.Map;
 
 /**
  * 验证码
@@ -41,6 +43,9 @@ public class KaptchaController {
             e.printStackTrace();
             log.error("获取验证码异常：{}", e.getMessage());
         }
+    }
+
+    public static void main(String[] args) {
     }
 
 }

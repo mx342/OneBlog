@@ -1,10 +1,10 @@
 package com.zyd.blog.persistence.mapper;
 
-import com.zyd.blog.persistence.beans.SysUserRole;
-import com.zyd.blog.plugin.BaseMapper;
-import org.springframework.stereotype.Repository;
+        import com.zyd.blog.persistence.beans.SysUserRole;
+        import com.zyd.blog.plugin.BaseMapper;
+        import org.springframework.stereotype.Repository;
 
-import java.util.List;
+        import java.util.List;
 
 /**
  * @author yadong.zhang (yadong.zhang0415(a)gmail.com)
