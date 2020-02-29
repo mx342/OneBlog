@@ -29,6 +29,8 @@
         <link href="https://cdn.jsdelivr.net/npm/highlight.js@9.12.0/styles/github.min.css" rel="stylesheet">
     </#if>
     <#nested>
+    <script type="text/javascript" src="http://tajs.qq.com/stats?sId=66507139" charset="UTF-8"></script>
+    <script type="text/javascript" src="http://tajs.qq.com/stats?sId=66507120" charset="UTF-8"></script>
 </head>
 <body>
     <#include "/layout/header.ftl"/>
