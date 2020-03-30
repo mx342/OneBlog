@@ -173,3 +173,4 @@
 <script type="text/javascript" src="${config.staticWebSite}/js/zhyd.core.js"></script>
 <script type="text/javascript" src="${config.staticWebSite}/js/zhyd.comment.js"></script>
 <script type="text/javascript" src="${config.staticWebSite}/js/zhyd.js"></script>
+<#--<script src="${config.staticWebSite}/source/autoload.js"></script>-->

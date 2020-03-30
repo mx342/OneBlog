@@ -7,3 +7,4 @@
     <link href="https://cdn.jsdelivr.net/npm/nprogress@0.2.0/nprogress.min.css" rel="stylesheet">
     <link href="${config.staticWebSite}/css/zhyd.core.css" rel="stylesheet" type="text/css">
     <link href="${config.staticWebSite}/css/zhyd.comment.css" rel="stylesheet" type="text/css">
+<#--    <link rel="stylesheet" href="${config.staticWebSite}/source/font-awesome.min.css">-->
